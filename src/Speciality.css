@@ -1,0 +1,96 @@
+/* Our Speciality */
+.special-margin {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text-centered {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.speciality-description {
+    font-size: 20px;
+}
+
+/* Container styling */
+.container-speciality {
+    padding: 20px;
+    padding-top: 90px;
+    margin-bottom: -10px;
+}
+
+/* Flexbox container for aligning h5 and p in one line */
+.flex-speciality {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+/* Styling for h5 and p tags */
+.flex-speciality span {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #7a7a7a;
+    margin-right: 15px;
+}
+
+.newline-speciality {
+    display: block;
+    margin-top: 5px;
+}
+
+/* social media icons */
+.social-icon {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.facebook-icon {
+    background-color: #1877F2;
+}
+
+.twitter-icon {
+    background-color: #1DA1F2;
+}
+
+.youtube-icon {
+    background-color: #FF0000;
+}
+
+.instagram-icon {
+    background-color: #eb3f5e;
+}
+
+/* footer */
+footer a {
+    text-decoration: none;
+}
+
+.custom-margin-logo {
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.list-unstyled {
+    font-size: 16px;
+    text-align: left;
+}
+
+.text-black {
+    font-size: 16px;
+    text-align: center;
+
+}

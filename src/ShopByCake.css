@@ -1,0 +1,26 @@
+.category-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .btn-pink {
+    background-color: #EC268f !important;
+    color: white !important; 
+    font-size: 15px !important;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+
+
+.category-container2 {
+    background-color: rgb(229, 225, 247);
+    padding: 20px;
+
+
+}
+.category-container2 .category-name {
+    margin-left: 20px;
+}

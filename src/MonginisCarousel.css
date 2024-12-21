@@ -1,0 +1,15 @@
+.carousel-inner .carousel-item .d-block {
+    height: 390px;
+    max-width: 300%;
+    display: flex;
+
+}
+
+.carousel-control-prev {
+    left: -70px;
+}
+
+.carousel-control-next {
+    right: -70px;
+
+}

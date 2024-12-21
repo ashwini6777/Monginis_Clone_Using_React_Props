@@ -1,0 +1,52 @@
+/* Navbar Styles */
+.navbar {
+    background-color: white; 
+    margin-bottom: 5px;
+}
+
+.navbar-brand {
+    margin-left: 80px; /* Spacing from the left */
+}
+
+.navbar-nav {
+    font-size: 15px; 
+    margin-left: auto; 
+    padding: 0; 
+}
+
+.nav-item {
+    margin: 0 13px; 
+}
+.nav-item .custom-nav-link {
+    color: black;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover {
+    color: blue !important; 
+}
+
+.dropdown-menu .dropdown-item {
+    font-weight: bold; 
+    font-size: 15px; 
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: blue !important; 
+}
+
+.container {
+    padding: 20px; 
+}
+
+.custom-margin {
+    margin-top: 50px; 
+    justify-content: center;
+    display: flex; 
+}
+/* 
+.content {
+    margin-top: -55px; 
+} */
+
+

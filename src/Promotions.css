@@ -1,0 +1,71 @@
+/* Placing your first order ? Get Upto 10% Off */
+.elementor-widget-container1 {
+    margin-top: 70px;
+    height: 150px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #ed188a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* What our clients say about us */
+.elementor-widget-container2 {
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #F5F5F5;
+}
+
+.elementor-widget-container2 .custom-margin {
+    margin-top: 40px;
+}
+
+/* Know The Sweet Deal First! */
+.elementor-widget-container3 {
+    width: 100%;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #e2def5;
+    padding: 20px;
+    height: 380px;
+}
+
+.elementor-widget-container3 .custom-margin {
+    margin-top: 35px;
+    margin-left: -20px;
+}
+
+.elementor-widget-container3 p {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+/* Style for the email input field */
+.elementor-widget-container3 input[type="email"] {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-radius: 0;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* Style for the subscribe button */
+.elementor-widget-container3 button.btn.btn-primary {
+    background-color: #20134B;
+    color: white;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 16px;
+    height: 48px;
+    margin-top: 20px;
+}

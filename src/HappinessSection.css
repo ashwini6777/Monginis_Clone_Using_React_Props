@@ -1,0 +1,91 @@
+.custom-margin {
+    margin-top: 60px;
+    font-size: 30px;
+  }
+
+    
+  .custom-image-size {
+    width: 90%;
+    height: 90%; 
+  }
+ 
+  .custom-btn {
+    background-color: #EC268f !important; 
+    color: white !important; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+ 
+  }
+
+ .custom-btn p{
+    font-size: 15px;
+    text-align: center;
+ }
+
+ /* bestseller-container */
+
+ .bestseller-container {
+    background-color: rgb(229, 225, 247);
+    padding: 20px;
+    height: auto;
+  }
+  
+  .responsive-margin {
+   margin-bottom: 60px;
+  }
+  .category-box {
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    height: 170px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: end; 
+    justify-content: center;
+    margin-bottom: 70px;
+  }
+  
+
+  .category-box p {
+    font-size: 20px;
+    color: black;
+    margin-right: 0; 
+  }
+  
+  .view-all-btn {
+    background-color: #EC268F;
+    color: white;
+    font-size: 15px;
+    width: 100px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; 
+    margin-right: 0;
+  }
+  
+  
+  .birthday-box {
+    background-image: url('https://www.monginis.net/wp-content/uploads/2022/06/Component-3-%E2%80%93-1-2.png');
+    background-size: 75% auto;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  
+  .anniversary-box {
+    background-image: url('https://www.monginis.net/wp-content/uploads/2022/06/Component-2-%E2%80%93-1-1.png');
+    background-size: 80% auto;
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .category-box {
+      width: 100%; /* Full width on small screens */
+      align-items: start; /* Keep text and button aligned to the left */
+    }
+  }
+  
